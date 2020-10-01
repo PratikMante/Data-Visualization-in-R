@@ -3,8 +3,12 @@ These are data visualization assignments and projects, which predominantly use R
 
 ## Farmers Market
 
-## Crime,Covid19&Agri
+## Crime-Covid19&WorldBank
+This folder contains R code which was used in data wrangling. In this assignment interactive visualizations of:
+1. Monthly distribution of crime events in Boston
+2. Average change in mobility of Covid19 in US population
+3. Female employment in agriculture sector
 
 ## Video Games Sales
-View the video games sales insights with interactive visualisations:
+View the video games sales insights with interactive visualizations:
 [Click here](https://sites.google.com/view/project1-video-games-sales/home)
