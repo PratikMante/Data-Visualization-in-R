@@ -8,6 +8,7 @@ This folder contains R code which was used in data wrangling. In this assignment
 1. Monthly distribution of crime events in Boston
 2. Average change in mobility of Covid19 in US population
 3. Female employment in agriculture sector
+
 View the interactive visualizations: [Click here](https://sites.google.com/view/ie6600-hw2-pratik-mante/home)
 
 ## Video Games Sales
