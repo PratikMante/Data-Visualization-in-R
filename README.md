@@ -11,6 +11,6 @@ This folder contains R code which was used in data wrangling. In this assignment
 
 View the interactive visualizations: [Click here](https://sites.google.com/view/ie6600-hw2-pratik-mante/home)
 
-## Video Games Sales
+## GameConsole
 View the video games sales insights with interactive visualizations:
 [Click here](https://sites.google.com/view/project1-video-games-sales/home)
